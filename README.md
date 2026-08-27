@@ -5,7 +5,7 @@
   <a href="https://adammount.org">
     <img src="https://img.shields.io/badge/Portfolio-adammount.org-000?style=for-the-badge" />
   </a>
-  <a href="https://linkedin.com/in/ТВОЙ_ПРОФИЛЬ">
+  <a href="https://www.linkedin.com/in/shamil-aydemirov-18a761429">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://t.me/adam_mirov">
@@ -18,7 +18,7 @@
 ### Stack
 
 **Frontend** — React 19, Next.js 16 (App Router), TypeScript, TanStack Query, Zustand, Tailwind, SCSS Modules  
-**Backend** — NestJS, PostgreSQL, Drizzle, Payload CMS, Redis, BullMQ, Zod  
+**Backend** — NestJS, PostgreSQL, Drizzle, Payload CMS, Redis, BullMQ, Zod
 **Mobile** — React Native  
 **Infra** — Docker, Traefik, Dokploy, Bun, GitHub Actions  
 
@@ -36,10 +36,9 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adammount&show_icons=true&hide_border=true&theme=dark" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adammount&layout=compact&hide_border=true&theme=dark" height="150" />
-</div>
+<p align="center">
+  Currently open to full-stack and frontend roles — remote or relocation.
+</p>
 
 ---
 
