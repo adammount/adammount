@@ -1,5 +1,5 @@
 <h1 align="center">Adam Aidemirov</h1>
-<p align="center">Full-stack developer — web and mobile products end to end</p>
+<p align="center">Full-stack developer — web and mobile products, end to end</p>
 
 <p align="center">
   <a href="https://adammount.org">
@@ -8,37 +8,42 @@
   <a href="https://linkedin.com/in/ТВОЙ_ПРОФИЛЬ">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://t.me/adam_mirov">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### Стек
+### Stack
 
-**Frontend** — React, Next.js (App Router), TypeScript, TanStack Query, Zustand, SCSS, Tailwind  
-**Backend** — NestJS, PostgreSQL, Drizzle / Prisma, Redis, BullMQ  
+**Frontend** — React 19, Next.js 16 (App Router), TypeScript, TanStack Query, Zustand, Tailwind, SCSS Modules  
+**Backend** — NestJS, PostgreSQL, Drizzle, Payload CMS, Redis, BullMQ, Zod  
 **Mobile** — React Native  
-**Инфраструктура** — Docker, Traefik, Dokploy, GitHub Actions  
+**Infra** — Docker, Traefik, Dokploy, Bun, GitHub Actions  
 
 ---
 
-### Проекты
+### Projects
 
-| Проект | Что это | Демо |
+| Project | What it is | Links |
 |---|---|---|
-| **Save Food** | Маркетплейс спасения еды: бронь по QR, PostGIS-геопоиск, WebAuthn, YooKassa | [save-foods.com](https://save-foods.com) |
-| **Adamix** | Фуллстек интернет-магазин: NestJS + PostgreSQL, OAuth, загрузка медиа | [adamics.uk](https://adamics.uk) |
-| **Closetly** | API мобильного приложения на React Native | [closetly.uk](https://closetly.uk) |
+| **Save Food** | Food-rescue marketplace — PostGIS geo search, atomic stock reservation, QR pickup, WebAuthn, YooKassa | [Live](https://save-foods.com) · [Case](https://adammount.org/projects/save-food) |
+| **The Club** | Premium cosmetics e-commerce — monorepo of two services, Bitrix24 CRM, CDEK, Celicom WMS, cron sync | [Live](https://aidaclub.ru) · [Case](https://adammount.org/projects/the-club) |
+| **Detal** | Auto parts store — faceted catalogue, field-level wholesale pricing, server-side order totals, Payload CMS with ISR | [Live](https://muraauto.ru) · [Code](https://github.com/adammount/auto-shop) · [Case](https://adammount.org/projects/detal) |
+| **Adamix** | Full-stack shop — NestJS + PostgreSQL, OAuth, media uploads | [Live](https://adamics.uk) · [Case](https://adammount.org/projects/adamix) |
+| **Closetly** | React Native app with a NestJS + Redis API | [Case](https://adammount.org/projects/closetly) |
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&theme=dark" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&theme=dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adammount&show_icons=true&hide_border=true&theme=dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adammount&layout=compact&hide_border=true&theme=dark" height="150" />
 </div>
 
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adammount/adammount/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/adammount/adammount/output/snake.svg" />
 </picture>
