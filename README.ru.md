@@ -38,7 +38,7 @@ E-commerce премиальной косметики. Два сервиса в �
 **[Adamix](https://adamics.uk)** · [Репозиторий](https://github.com/adammount/adamix) · [Кейс](https://adammount.org/projects/adamix)  
 Свой магазин, сделанный целиком. NestJS, PostgreSQL, OAuth, загрузка медиа.
 
-**[Closetly](https://github.com/adammount/closetly-case)** · [Кейс](https://adammount.org/projects/closetly-case)  
+**[Closetly](https://github.com/adammount/closetly-case)** · [Кейс](https://adammount.org/projects/closetly)  
 Приложение на React Native поверх API на NestJS и Redis.
 
 ### Сейчас
