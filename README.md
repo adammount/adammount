@@ -1,5 +1,5 @@
 <h1 align="center">Shamil Aidemirov</h1>
-<p align="center">Full-stack developer. I take products from the first Figma frame to a running container, usually alone.</p>
+<p align="center">Full-stack developer, two years in an agency. Frontend, backend, deploy.</p>
 
 <p align="center">
   <b>English</b> · <a href="./README.ru.md">Русский</a>
