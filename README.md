@@ -1,4 +1,4 @@
-<h1 align="center">Adam Aidemirov</h1>
+<h1 align="center">Shamil Aidemirov</h1>
 <p align="center">Full-stack developer — web and mobile products, end to end</p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 | **The Club** | Premium cosmetics e-commerce — monorepo of two services, Bitrix24 CRM, CDEK, Celicom WMS, cron sync | [Live](https://aidaclub.ru) · [Case](https://adammount.org/projects/the-club) |
 | **Detal** | Auto parts store — faceted catalogue, field-level wholesale pricing, server-side order totals, Payload CMS with ISR | [Live](https://muraauto.ru) · [Code](https://github.com/adammount/auto-shop) · [Case](https://adammount.org/projects/detal) |
 | **Adamix** | Full-stack shop — NestJS + PostgreSQL, OAuth, media uploads | [Live](https://adamics.uk) · [Case](https://adammount.org/projects/adamix) |
-| **Closetly** | React Native app with a NestJS + Redis API | [Case](https://adammount.org/projects/closetly) |
+| **Closetly** | React Native app with a NestJS + Redis API | [Case](https://adammount.org/projects/closetly-case) |
 
 ---
 
