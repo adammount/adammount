@@ -38,7 +38,7 @@ Auto parts catalogue. Faceted search, wholesale prices set per field, order tota
 **[Adamix](https://adamics.uk)** · [Repo](https://github.com/adammount/adamix) · [Case](https://adammount.org/projects/adamix)  
 My own shop, built end to end. NestJS, PostgreSQL, OAuth, media uploads.
 
-**[Closetly](https://github.com/adammount/closetly-case)** · [Case](https://adammount.org/projects/closetly-case)  
+**[Closetly](https://github.com/adammount/closetly-case)** · [Case](https://adammount.org/projects/closetly)  
 React Native app sitting on a NestJS and Redis API.
 
 ### Right now
