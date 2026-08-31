@@ -1,5 +1,5 @@
 <h1 align="center">Шамиль Айдемиров</h1>
-<p align="center">Full-stack разработчик. Веду продукт от первого макета в Figma до работающего контейнера, обычно в одиночку.</p>
+<p align="center">Full-stack разработчик, два года в агентстве. Фронт, бэк, деплой.</p>
 
 <p align="center">
   <a href="./README.md">English</a> · <b>Русский</b>
